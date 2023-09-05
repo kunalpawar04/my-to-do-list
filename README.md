@@ -4,8 +4,6 @@ A simple and user-friendly to-do list application built with React. Easily manag
 
 ## Getting Started
 
-lnxlnxlvncxlkvn
-Hi
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 ## Available Scripts
