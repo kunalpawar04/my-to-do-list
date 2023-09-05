@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kunalpawar04/my-to-do-list.git/static/css/main.dd4a5bd1.css",
+    "main.js": "/kunalpawar04/my-to-do-list.git/static/js/main.0a1ff0ef.js",
+    "static/js/787.b6086cd3.chunk.js": "/kunalpawar04/my-to-do-list.git/static/js/787.b6086cd3.chunk.js",
+    "index.html": "/kunalpawar04/my-to-do-list.git/index.html",
+    "main.dd4a5bd1.css.map": "/kunalpawar04/my-to-do-list.git/static/css/main.dd4a5bd1.css.map",
+    "main.0a1ff0ef.js.map": "/kunalpawar04/my-to-do-list.git/static/js/main.0a1ff0ef.js.map",
+    "787.b6086cd3.chunk.js.map": "/kunalpawar04/my-to-do-list.git/static/js/787.b6086cd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4a5bd1.css",
+    "static/js/main.0a1ff0ef.js"
+  ]
+}
