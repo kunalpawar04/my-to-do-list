@@ -37,15 +37,26 @@ To run this application locally, follow these steps:
 
 2. Change into the project directory:
 
+   ```bash
    cd my-todo-list-app
+
+   ```
 
 3. Install the project dependencies:
 
+   ```bash
    npm install
+
+   ```
 
 4. Start the development server:
 
+   ````bash
    npm start
+
+   ```bash
+
+   ````
 
 5. Open your web browser and navigate to http://localhost:3000 to use the application.
 
