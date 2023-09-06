@@ -51,12 +51,10 @@ To run this application locally, follow these steps:
 
 4. Start the development server:
 
-   ````bash
+   ```bash
    npm start
 
-   ```bash
-
-   ````
+   ```
 
 5. Open your web browser and navigate to http://localhost:3000 to use the application.
 
